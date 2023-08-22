@@ -6,4 +6,5 @@
 
 * 📮 contact me at HaozzaLi@gmail.com
 
-  <img height="180em" src="https://github-readme-stats-ten-phi-92.vercel.app/api?username=ForestLH&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-ten-phi-92.vercel.app/api?username=ForestLH&theme=dark&show_icons=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForestLH&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
