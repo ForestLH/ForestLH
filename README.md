@@ -2,7 +2,7 @@
 
 * 🌱 KV store and Database optimizer
 * 💼 Coding in C++,Java
-* 🎓 Studying for SE master in HUST, expected to graduate in 2024
+*  Love to participate in open source
 
 * 📮 contact me at HaozzaLi@gmail.com
 
